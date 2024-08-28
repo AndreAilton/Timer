@@ -1,7 +1,7 @@
 ## [Link do Projeto Aqui](https://andreailton.github.io/Timer/)
 [Clique Aqui](https://andreailton.github.io/Timer/)
 
-
+<img src="https://github.com/AndreAilton/Timer/blob/main/Timer.png?raw=true" alt="Descrição da Imagem" width="400"/>
 
 # Projeto de Cronômetro
 
