@@ -43,7 +43,14 @@ function IniciarContagem(){
 }
 
 Iniciar.addEventListener("click",()=> {
-    IniciarContagem()
+    if(Rodando === true){
+        clearInterval(Intervalo)
+        Rodando = false
+    }
+    else {
+        IniciarContagem()
+    }
+
 })
 
 Pausar.addEventListener("click",()=> {
